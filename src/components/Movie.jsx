@@ -12,7 +12,7 @@ const Movie = (Props) => {
                     <img src={`${Props.image}`} />
                     <p>episode: {Props.episode}</p>
                     <h3>{Props.movieName}</h3>
-                    <img src='../asset/Rectangle 3.png' />
+                    <img src='/ktgk01/asset/Rectangle 3.png' />
                 </div>
             </div>
         </>
